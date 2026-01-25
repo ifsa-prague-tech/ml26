@@ -1,4 +1,4 @@
-# ml-sp26
+# mlp26
 
 ## Introduction to Machine Learning
 
